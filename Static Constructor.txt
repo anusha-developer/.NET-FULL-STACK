@@ -1,0 +1,27 @@
+using System; // import statement
+
+namespace OOPS_CONCEPT
+{
+    class Program // class is a  keyword program  is a classname
+    {
+        // static constructor
+        public Program()
+        {
+            // for Non-static class we have to create objects
+            Console.WriteLine(" Non-Static Constructor");// Non-static constructor
+
+        }
+         static Program()
+        {
+            //for Static class we don't want to create any objects
+            // if we want to excute any elements first we have to put in static constructor
+            Console.WriteLine("Static Constructor");// static constructor
+        }
+            
+        static void Main(string[] args)// static is a keyword void is a empty return
+        {
+            Program prog = new Program();
+        } //method close
+    } // class close
+
+}//namespace close
