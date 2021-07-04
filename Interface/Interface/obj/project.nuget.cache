@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZBfxbSoLbm3LFtUrBrcQJqrfZ/LmeVucx4hg/MbrjiJ9EGUWl+Qa2gGsw9t/fuOaZ9X9J8n/a1V4yo8q9hazQ==",
+  "success": true,
+  "projectFilePath": "E:\\Interface\\Interface\\Multiple Inheritence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
