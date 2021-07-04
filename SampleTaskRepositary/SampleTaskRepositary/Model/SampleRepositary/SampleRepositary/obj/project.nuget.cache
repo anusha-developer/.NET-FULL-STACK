@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "26dAYczv88UTr7avqYnE6BvSdmNrS11cUt2FXYh/gVXfSa9utJojQRufxZZmlGgScwxu+v8eaqnBK0P/cs7kQg==",
+  "success": true,
+  "projectFilePath": "E:\\SampleRepositary\\SampleRepositary\\SampleRepositary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

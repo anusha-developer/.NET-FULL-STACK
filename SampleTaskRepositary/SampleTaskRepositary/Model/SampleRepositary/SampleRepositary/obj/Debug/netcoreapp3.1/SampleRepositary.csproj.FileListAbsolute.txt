@@ -1,0 +1,13 @@
+E:\SampleRepositary\SampleRepositary\bin\Debug\netcoreapp3.1\SampleRepositary.exe
+E:\SampleRepositary\SampleRepositary\bin\Debug\netcoreapp3.1\SampleRepositary.deps.json
+E:\SampleRepositary\SampleRepositary\bin\Debug\netcoreapp3.1\SampleRepositary.runtimeconfig.json
+E:\SampleRepositary\SampleRepositary\bin\Debug\netcoreapp3.1\SampleRepositary.runtimeconfig.dev.json
+E:\SampleRepositary\SampleRepositary\bin\Debug\netcoreapp3.1\SampleRepositary.dll
+E:\SampleRepositary\SampleRepositary\bin\Debug\netcoreapp3.1\SampleRepositary.pdb
+E:\SampleRepositary\SampleRepositary\obj\Debug\netcoreapp3.1\SampleRepositary.csprojAssemblyReference.cache
+E:\SampleRepositary\SampleRepositary\obj\Debug\netcoreapp3.1\SampleRepositary.AssemblyInfoInputs.cache
+E:\SampleRepositary\SampleRepositary\obj\Debug\netcoreapp3.1\SampleRepositary.AssemblyInfo.cs
+E:\SampleRepositary\SampleRepositary\obj\Debug\netcoreapp3.1\SampleRepositary.csproj.CoreCompileInputs.cache
+E:\SampleRepositary\SampleRepositary\obj\Debug\netcoreapp3.1\SampleRepositary.dll
+E:\SampleRepositary\SampleRepositary\obj\Debug\netcoreapp3.1\SampleRepositary.pdb
+E:\SampleRepositary\SampleRepositary\obj\Debug\netcoreapp3.1\SampleRepositary.genruntimeconfig.cache
