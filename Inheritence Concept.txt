@@ -1,0 +1,50 @@
+using System; // import statement
+
+namespace OOPS_CONCEPT
+{
+    //Inheritence Concept
+    class Animal //parent class
+    {
+        public string animalName;
+        public bool type;
+        public string color;
+
+        public  void displayDetails()
+        {
+            Console.WriteLine("Animal Name:" + animalName);
+            Console.WriteLine("Type:" + type);
+            Console.WriteLine("Color:" + color);
+        }
+      class Loin:Animal //childClass
+        {
+            public int id;
+            public int HoursOfSleep;
+
+            public  void displayLoinDetails()
+            {
+                Console.WriteLine("Id" + id);
+                Console.WriteLine("HoursOfSleep" + HoursOfSleep);
+            }
+        }
+      static void Main(string[] args)// static is a keyword void is a empty return
+        {
+            // In inheritence Concept child can acquire all the properties of parent 
+            // but parent can't accquire the properties of child
+            // we have to create a object for child class only
+            //in that we have to acquire the all the properties  parent also
+
+            Loin li = new Loin();//obj creation
+            li.animalName = "COW";//parent class properties
+            li.type = false;
+            li.color = "blue";
+            li.id = 1099;//Child class properties
+            li.HoursOfSleep = 22;
+
+            li.displayDetails();
+            li.displayLoinDetails();
+        } //method close
+
+        } // class close
+    
+
+}//namespace close
