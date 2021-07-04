@@ -1,0 +1,24 @@
+using System; // import statement
+
+namespace OOPS_CONCEPT
+{
+    class Program
+
+    {
+        private Program()
+        { //private Constructor we don't  want to create any objects
+            Console.WriteLine("private Constructor");
+
+        }
+        public class Employee
+        {
+            static void Main(string[] args)// static is a keyword void is a empty return
+            {
+                //Program prog = new Program(); // private constructor no need to create obj
+
+            } //method close
+
+        } // class close
+    }
+
+}//namespace close
