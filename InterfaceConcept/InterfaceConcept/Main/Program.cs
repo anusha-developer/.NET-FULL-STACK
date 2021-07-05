@@ -7,6 +7,8 @@ namespace InterfaceConcept
     {
         static void Main(string[] args)
         {
+            
+            //cw Tab(double) to print Console.writeline()
             StudentRepositaryImplementation studentRepositary = new StudentRepositaryImplementation();
             Console.WriteLine(studentRepositary.addstudent());
             Console.WriteLine(studentRepositary.deletestudent());
