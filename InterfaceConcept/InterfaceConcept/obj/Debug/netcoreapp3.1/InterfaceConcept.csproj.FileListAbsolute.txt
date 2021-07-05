@@ -1,0 +1,13 @@
+E:\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.exe
+E:\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.deps.json
+E:\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.runtimeconfig.json
+E:\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.runtimeconfig.dev.json
+E:\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.dll
+E:\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.pdb
+E:\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.csprojAssemblyReference.cache
+E:\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.AssemblyInfoInputs.cache
+E:\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.AssemblyInfo.cs
+E:\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.csproj.CoreCompileInputs.cache
+E:\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.dll
+E:\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.pdb
+E:\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.genruntimeconfig.cache

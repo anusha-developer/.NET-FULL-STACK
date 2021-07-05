@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ep/c0IbHmEJYq1q1qRYCLr/7sx9l4lga5ajbU0b1Nf4+6r3rN688/0BBpqBvPmjh/X3mUQ5bRwCkgP96iO6VIQ==",
+  "success": true,
+  "projectFilePath": "E:\\InterfaceConcept\\InterfaceConcept\\InterfaceConcept.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
