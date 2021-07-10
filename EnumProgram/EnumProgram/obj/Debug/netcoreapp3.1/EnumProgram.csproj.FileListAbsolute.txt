@@ -1,0 +1,13 @@
+E:\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.exe
+E:\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.deps.json
+E:\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.runtimeconfig.json
+E:\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.runtimeconfig.dev.json
+E:\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.dll
+E:\EnumProgram\EnumProgram\bin\Debug\netcoreapp3.1\EnumProgram.pdb
+E:\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.csprojAssemblyReference.cache
+E:\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.AssemblyInfoInputs.cache
+E:\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.AssemblyInfo.cs
+E:\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.csproj.CoreCompileInputs.cache
+E:\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.dll
+E:\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.pdb
+E:\EnumProgram\EnumProgram\obj\Debug\netcoreapp3.1\EnumProgram.genruntimeconfig.cache
