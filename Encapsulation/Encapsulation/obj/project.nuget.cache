@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8neyYf4N51hC/ohWsashAnst6IidHgbv4Le1UZQ8YsTwQEoLFg+1ZWmPLa99AIjNaWiGOOZUbIq8au2yBbW+8A==",
+  "success": true,
+  "projectFilePath": "E:\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
