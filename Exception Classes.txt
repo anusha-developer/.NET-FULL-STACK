@@ -1,0 +1,57 @@
+EXCEPTION CLASSES:-
+============================================
+
+Exception:--
+   When we run the Program different types of errors will come
+             
+    Object
+      |
+    Exeption
+       |
+    1.System Exception                                                       2.ApplicationException                    
+            |
+     *External Exception                *NullRefernceException
+     *ComException                      *InvalidOperationException
+                                        *ArgumentExeption-------------------1.ArugumentNullException
+                                        *AccessViloationException           2.ArgumentOutOfRangeException                                                                
+
+
+  
+     Exception class                                                            Description
+       
+   1.ArgumentException                                                    -->Raised when a null argument  that is  passed to a method is invalid
+   2.ArgumentNullException                                                -->Raised when null argument is passed to a method.
+   3.ArgumentOutOfRangeException                                          -->Raised when the value of an argument is outside the range of valid values.
+   4.DivideByZeroException                                                -->Raised when an integer value is divide by zero.
+   5.FileNotFoundException                                                -->Raised when a physical file does not exist at the specified location.
+   6.FormatException                                                      -->Raised when a value is not in an appropriate format to be converted from a string by a conversion method such as Parse.
+   7.IndexOutOfRangeException                                             -->Raised when an array index is outside the lower or upper bounds of an array or collection.
+   8.InvalidOperationException                                            -->Raised when a method call is invalid in an object's current state.
+   9.KeyNotFoundException                                                 -->Raised when the specified key for accessing a member in a collection is not exists.
+   10.NotSupportedException                                               -->Raised when a method or operation is not supported.
+   11.NullReferenceException                                              -->Raised when program access members of null object.
+   12.OverflowException                                                   -->Raised when an arithmetic, casting, or conversion operation results in an overflow.
+   13.OutOfMemoryException                                                -->Raised when a program does not get enough memory to execute the code.
+   14.StackOverflowException                                              -->Raised when a stack in memory overflows.
+   15.TimeoutException                                                    -->The time interval allotted to an operation has expired.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+    
+    
+
+
