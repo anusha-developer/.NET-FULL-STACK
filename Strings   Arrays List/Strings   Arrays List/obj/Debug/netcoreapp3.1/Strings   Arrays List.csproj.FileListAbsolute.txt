@@ -1,0 +1,13 @@
+E:\Strings   Arrays List\Strings   Arrays List\bin\Debug\netcoreapp3.1\Strings   Arrays List.exe
+E:\Strings   Arrays List\Strings   Arrays List\bin\Debug\netcoreapp3.1\Strings   Arrays List.deps.json
+E:\Strings   Arrays List\Strings   Arrays List\bin\Debug\netcoreapp3.1\Strings   Arrays List.runtimeconfig.json
+E:\Strings   Arrays List\Strings   Arrays List\bin\Debug\netcoreapp3.1\Strings   Arrays List.runtimeconfig.dev.json
+E:\Strings   Arrays List\Strings   Arrays List\bin\Debug\netcoreapp3.1\Strings   Arrays List.dll
+E:\Strings   Arrays List\Strings   Arrays List\bin\Debug\netcoreapp3.1\Strings   Arrays List.pdb
+E:\Strings   Arrays List\Strings   Arrays List\obj\Debug\netcoreapp3.1\Strings   Arrays List.csprojAssemblyReference.cache
+E:\Strings   Arrays List\Strings   Arrays List\obj\Debug\netcoreapp3.1\Strings   Arrays List.AssemblyInfoInputs.cache
+E:\Strings   Arrays List\Strings   Arrays List\obj\Debug\netcoreapp3.1\Strings   Arrays List.AssemblyInfo.cs
+E:\Strings   Arrays List\Strings   Arrays List\obj\Debug\netcoreapp3.1\Strings   Arrays List.csproj.CoreCompileInputs.cache
+E:\Strings   Arrays List\Strings   Arrays List\obj\Debug\netcoreapp3.1\Strings   Arrays List.dll
+E:\Strings   Arrays List\Strings   Arrays List\obj\Debug\netcoreapp3.1\Strings   Arrays List.pdb
+E:\Strings   Arrays List\Strings   Arrays List\obj\Debug\netcoreapp3.1\Strings   Arrays List.genruntimeconfig.cache
