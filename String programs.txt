@@ -1,0 +1,25 @@
+
+ *****How to print the  Values in single Line*****
+      Example:Length:Anusha:6
+
+  PROGRAM:---
+   String Anu = "Anusha";
+   Console.WriteLine("Length==>"+Anu.ToUpper()+Anu.Length);
+
+OUTPUT:
+Length==>ANUSHA6
+==============================================================================================           
+******How to print the values in same string in upper case &lowercase in single string*******
+      Example:Iam Anusha
+              //Iam--Lowercase
+             // Anusha---Uppercase
+
+
+PROGRAM:----
+ String Abc = "Iam Anusha";
+            // Console.WriteLine(abc.Replace("Iam","iam"));
+            Console.WriteLine(("Iam").ToLower()  +  ("Anusha").ToUpper());
+
+OUTPUT:
+iamANUSHA
+==============================================================================================
