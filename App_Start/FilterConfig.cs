@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Stories
+namespace FlipCart
 {
     public class FilterConfig
     {
