@@ -16,6 +16,11 @@ namespace FlipCart.Repositary
         List<Product> findAllProducts();
         Product updateProduct(int productId, Product product);
         string DeleteProduct(int productId);
+
+        Product SearchProductByName(string Name);
+        List<Product> SearchAllProductsByName(string Name);
+
+        List<Product> FindAllProductsBetweenRange(decimal MinPrice, decimal MaxPrice);
        
     }
 }

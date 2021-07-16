@@ -40,6 +40,14 @@ namespace FlipCart.Service
         {
             return productRepositaryImp.findProductByName(Name);
         }
+        public List<Product> SearchAllProductsByName( string Name)
+        {
+            return productRepositaryImp.SearchAllProductsByName(Name);
+        }
+        public List<Product> FindAllProductsBetweenRange(decimal MinPrice, decimal MaxPrice)
+        {
+            return productRepositaryImp.FindAllProductsBetweenRange(MinPrice, MaxPrice);
+        }
 
     }
 }

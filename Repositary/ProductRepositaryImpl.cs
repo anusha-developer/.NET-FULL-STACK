@@ -133,7 +133,7 @@ namespace FlipCart.Repositary
             {
                 con = DBConnection.CreateConnection();
                 con.Open();
-                SqlCommand cmd = new SqlCommand("Select * from Tbl_Products1 where Name=" + Name, con);
+                SqlCommand cmd = new SqlCommand("Select * from Tbl_Products1 where Name='" + Name+"'", con);
                 Product pro = new Product();
                 SqlDataReader sdr = cmd.ExecuteReader();
                 if (sdr.Read())
@@ -156,5 +156,70 @@ namespace FlipCart.Repositary
             return null;
         }
 
+          public Product SearchProductByName(string Name)
+          {
+              throw new NotImplementedException();
+          }
+
+        public List<Product> SearchAllProductsByName(string Name)
+        {
+            List<Product> products = new List<Product>();
+            try
+            {
+                Product pro = new Product();
+                con = DBConnection.CreateConnection();//DBConnection connection class
+                con.Open();
+                SqlCommand cmd = new SqlCommand("Select * from Tbl_Products1 where Name='" + Name + "'", con);
+
+                SqlDataReader sdr = cmd.ExecuteReader();
+                while (sdr.Read())
+                {
+                    pro = new Product();
+                    pro.productId = Convert.ToInt32(sdr["productId"]);
+                    pro.Name = Convert.ToString(sdr["Name"]);
+                    pro.Description = Convert.ToString(sdr["Description"]);
+                    pro.price = Convert.ToDecimal(sdr["price"]);
+                    products.Add(pro);
+
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return products;
+        }
+
+        public List<Product> FindAllProductsBetweenRange(decimal MinPrice, decimal MaxPrice)
+        {
+
+            List<Product> products = new List<Product>();
+            try
+            {
+                Product pro = new Product();
+                con = DBConnection.CreateConnection();//DBConnection connection class
+                con.Open();
+                SqlCommand cmd = new SqlCommand("select * from Tbl_Products1 where Price  Between '"+MinPrice+"' AND '"+ MaxPrice + "'", con);
+
+                SqlDataReader sdr = cmd.ExecuteReader();
+                while (sdr.Read())
+                {
+                    pro = new Product();
+                    pro.productId = Convert.ToInt32(sdr["productId"]);
+                    pro.Name = Convert.ToString(sdr["Name"]);
+                    pro.Description = Convert.ToString(sdr["Description"]);
+                    pro.price = Convert.ToDecimal(sdr["price"]);
+                    products.Add(pro);
+
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return products;
+        }
+
+    
     }//Class Close
 }//Namespace close
