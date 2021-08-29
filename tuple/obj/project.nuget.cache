@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVnPoysUUWarj6V9dZF7Nnor9z7tZv1SPnbzSU9s4B1oReGoy2m0wscRUmYE09J8QLBPpdnQBXC1aqvYPpW9Ng==",
+  "success": true,
+  "projectFilePath": "E:\\tuple\\tuple\\tuple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

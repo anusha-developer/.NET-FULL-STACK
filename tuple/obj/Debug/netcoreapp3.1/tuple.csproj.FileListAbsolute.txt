@@ -1,0 +1,4 @@
+E:\tuple\tuple\obj\Debug\netcoreapp3.1\tuple.csprojAssemblyReference.cache
+E:\tuple\tuple\obj\Debug\netcoreapp3.1\tuple.AssemblyInfoInputs.cache
+E:\tuple\tuple\obj\Debug\netcoreapp3.1\tuple.AssemblyInfo.cs
+E:\tuple\tuple\obj\Debug\netcoreapp3.1\tuple.csproj.CoreCompileInputs.cache
