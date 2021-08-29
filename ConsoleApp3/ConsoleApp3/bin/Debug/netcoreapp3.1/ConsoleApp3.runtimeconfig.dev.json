@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PawaN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PawaN\\.nuget\\packages"
+    ]
+  }
+}
