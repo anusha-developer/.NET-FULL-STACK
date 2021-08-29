@@ -1,59 +1,37 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace Duplicates
 {
-    //Program for Static variable
-    /*class Program
-        //Class is keyword
-        //program is a className
+    class Program
     {
         static void Main(string[] args)
-           //static is a keyword--->we don't want to create any object for static class  we can take class name as a object
-          //void means empty
         {
-             int Id = 101;
-             string  Name = "Dotnet";
-             long MobileNumber = 8298182822;
-             float Weight = 15.22f;
-             double Salary = 82928;
-             bool Qualified = false;
-             byte length = 10;
-
-            //Console is a Class
-            //WriteLine is a Method--static method
-             Console.WriteLine("Id:"+Id);
-             Console.WriteLine("Name:" + Name);
-             Console.WriteLine("MobileNumber:" + MobileNumber);
-             Console.WriteLine("Weight:" + Weight);
-             Console.WriteLine("Salary:" + Salary);
-             Console.WriteLine("Qualified:" + Qualified);
-             Console.WriteLine("length:" + length);
-            Console.ReadLine();
-
-
-        }*/
-
-
-    //Program for NonStatic variable
-    class Program1
-    {
-        int Id;
-        string firstName;
-        long mobileNumber;
-
-        static void Main(string[] args)
-        {
-            Program1 program = new Program1();
-            program.Id = 100;
-            program.firstName = "dotNet";
-            program.mobileNumber = 90828288282;
-
-            Console.WriteLine("Id:" + program.Id);
-            Console.WriteLine("firstName:" + program.firstName);
-            Console.WriteLine("mobileNumber:" + program.mobileNumber);
+            int Array, temp,i,n;
+            int j = 0;
+            for (i = 0; i <= n - 1; i++) ;
+            {
+                if (Array[i] != Array[i + 1]) ;
+                {
+                    temp[j] = Array[n - 1];
+                    j++;
+                }
+            }
+            temp[j] = Array[n - 1];
         }
-    }
-}
 
+           /* int[] array = { 10, 5, 10, 2, 2, 3, 5, 5, 6, 8, 11, 12, 12 };
+            int count = 1;
+            for (int i = 0; i < array.Length; i++)
+            {
+                for (int j = i; j < array.Length - 1; j++)
+                {
 
+                    if (array[j] == array[j + 1])
+                        count = count + 1;
+                }
+                Console.WriteLine("\n" + array[i] + "values" + count);
+                Console.ReadLine();*/
+            }
+        }
+    
 
