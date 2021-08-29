@@ -1,35 +1,33 @@
 ﻿using System;
 
-namespace method_override
+namespace task
 {
     class Program
     {
-        public virtual void display()
-        {
-            System.Console.WriteLine(" program display");
-
-        }
-    }
-    class program2:Program
-    {
-        public override void display()
-        {
-            System.Console.WriteLine("program2 display");
-        }
-    }
-
-       class Demo { 
+        
         static void Main(string[] args)
         {
-            Program pgr;
-            pgr = new Program();
-            pgr.display();
+            string a = "skilliceberg";
+            string b = "berg";
+            int count = 1;
+            for (int i = 1; i < a.Length; i++)
+            {
+                for (int j = 1; j < a.Length; j++)
+                {
+                    if (a[i] == a[j])
+                    {
+                        count++;
+                    }
+                }
+                Console.WriteLine(a[i] + "==" + count);
+                count = 0;
 
-            pgr = new program2();
-            pgr.display();
+            }
+            Console.ReadLine();
 
-            
-           
+        }
     }
-}
+   
+
+   
 }
